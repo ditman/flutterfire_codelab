@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575019193733",
+    "firebase_url": "https://dit-flutterfire-web.firebaseio.com",
+    "project_id": "dit-flutterfire-web",
+    "storage_bucket": "dit-flutterfire-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575019193733:android:ebe157b8755adc0178e0ec",
+        "android_client_info": {
+          "package_name": "dev.ditman.codelabs.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575019193733-fnfrgp1nmjmln31uvqv1bbjkhjr03d35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeuT7LwEEmVCq4VvAPyWMMEF1I2pOJfYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575019193733-fnfrgp1nmjmln31uvqv1bbjkhjr03d35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.firebase_codelab
+package dev.ditman.codelabs.baby_names
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
